@@ -7,7 +7,7 @@
 
 - 🔭Projeto 3 - Utilizando Power BI: [Análise de frequencia de trabalho dos funcionários](https://app.powerbi.com/view?r=eyJrIjoiOTczNDkwYzktOTI3My00NWVmLTk1NDYtNGFiNjJkMTgzYTA4IiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
-
+_________________________________________________________________________________________________________________________
 - 🌱 Atualmente estou me aprofundando em  **Python | Pandas | Power BI |**
   
 - 💬 Me pergunte sobre **BI | Data Viz | SQL| PWBI | PYTHON**
