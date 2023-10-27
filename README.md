@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 sou o Gustavo de Souza </h1>
 <h3 align="center">Apaixonado por Análise de Dados</h3>
 
-- 🔭Projeto 1 - Utilizando Power BI: Análise finaneira de produtos de varejo [Análise financeira de produtos de Varejo](https://app.powerbi.com/view?r=eyJrIjoiNWQxZDhhN2UtMTFjNC00NmU0LWIzNjItZGZlZjI3ZmNmZDAxIiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
+- 🔭Projeto 1 - Utilizando Power BI: [Análise financeira de produtos de Varejo](https://app.powerbi.com/view?r=eyJrIjoiNWQxZDhhN2UtMTFjNC00NmU0LWIzNjItZGZlZjI3ZmNmZDAxIiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
 - 🔭Projeto 2 - Utilizando Power BI: Análise financeira de transações bancarias [Análise de transações bancárias](https://app.powerbi.com/view?r=eyJrIjoiMzNjNjIzMDQtMzcxNS00MjgyLTkzNzAtZmEzNzlmOGZjYmYxIiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
