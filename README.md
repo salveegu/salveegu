@@ -3,9 +3,9 @@
 
 - 🔭Projeto 1 - Utilizando Power BI: [Análise financeira de produtos de Varejo](https://app.powerbi.com/view?r=eyJrIjoiNWQxZDhhN2UtMTFjNC00NmU0LWIzNjItZGZlZjI3ZmNmZDAxIiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
-- 🔭Projeto 2 - Utilizando Power BI: Análise financeira de transações bancarias [Análise de transações bancárias](https://app.powerbi.com/view?r=eyJrIjoiMzNjNjIzMDQtMzcxNS00MjgyLTkzNzAtZmEzNzlmOGZjYmYxIiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
+- 🔭Projeto 2 - Utilizando Power BI: [Análise de transações bancárias](https://app.powerbi.com/view?r=eyJrIjoiMzNjNjIzMDQtMzcxNS00MjgyLTkzNzAtZmEzNzlmOGZjYmYxIiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
-- 🔭Projeto 3 - Utilizando Power BI: Análise de frequencia de trabalho dos funcionários [Análise de frequencia de trabalho dos funcionários](https://app.powerbi.com/view?r=eyJrIjoiOTczNDkwYzktOTI3My00NWVmLTk1NDYtNGFiNjJkMTgzYTA4IiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
+- 🔭Projeto 3 - Utilizando Power BI: [Análise de frequencia de trabalho dos funcionários](https://app.powerbi.com/view?r=eyJrIjoiOTczNDkwYzktOTI3My00NWVmLTk1NDYtNGFiNjJkMTgzYTA4IiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
 
 - 🌱 Atualmente estou me aprofundando em  **Python | Pandas | Power BI |**
