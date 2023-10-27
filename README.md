@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo Gustavo de Souza Santos</h1>
-<h3 align="center">Sou apaixonado por Análise de Dados</h3>
+<h1 align="center">Olá 👋, Sou o Gustavo de Souza </h1>
+<h3 align="center">Apaixonado por Análise de Dados</h3>
 
 - 🔭Projeto 1 - Utilizando Power BI: Análise finaneira de produtos de varejo [Análise financeira de produtos de Varejo](https://app.powerbi.com/view?r=eyJrIjoiNWQxZDhhN2UtMTFjNC00NmU0LWIzNjItZGZlZjI3ZmNmZDAxIiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
@@ -9,7 +9,7 @@
 
 - 🔭Projeto 3 - Utilizando Power BI: Análise de frequencia de trabalho dos funcionários [Análise de frequencia de trabalho dos funcionários](https://app.powerbi.com/view?r=eyJrIjoiOTczNDkwYzktOTI3My00NWVmLTk1NDYtNGFiNjJkMTgzYTA4IiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
-- 💬 Me pergunte sobre **BI| Data Viz | SQL| PWBI | PYTHON**
+- 💬 Me pergunte sobre **BI | Data Viz | SQL| PWBI | PYTHON**
 
 - 📫 Fale comigo **gustavo.sousantos@gmail.com**
 
