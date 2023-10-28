@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 sou o Gustavo de Souza </h1>
+<h1 align="center">Olá 👋 sou o Gustavo Souza </h1>
 <h3 align="center">Apaixonado por Análise de Dados</h3>
 
 _________________________________________________________________________________________________________________________
