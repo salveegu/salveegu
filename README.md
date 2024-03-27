@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 - 🔭Projeto 3 - Utilizando Power BI: [Análise de frequencia de trabalho dos funcionários](https://app.powerbi.com/view?r=eyJrIjoiOTczNDkwYzktOTI3My00NWVmLTk1NDYtNGFiNjJkMTgzYTA4IiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9)
 
-🔭Projeto 4 - Utilizando SQL e AWS: [Análise de crédito bancário]([https://app.powerbi.com/view?r=eyJrIjoiOTczNDkwYzktOTI3My00NWVmLTk1NDYtNGFiNjJkMTgzYTA4IiwidCI6IjJmNjhhNWMxLTg0NTUtNDQ0ZS05N2ZjLWFlY2ExY2I5MTJhNiJ9](https://colab.research.google.com/drive/10WwP5XCRQnAM9Pll0jzzTyKi_IVUzhCM?usp=sharing)
+🔭Projeto 4 - Utilizando SQL e AWS: [Análise de crédito bancário](https://colab.research.google.com/drive/10WwP5XCRQnAM9Pll0jzzTyKi_IVUzhCM?usp=sharing)
 
 _________________________________________________________________________________________________________________________
 
