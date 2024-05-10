@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 - 🔭Projeto 4 - Utilizando SQL e AWS: [Análise de crédito bancário](https://colab.research.google.com/drive/10WwP5XCRQnAM9Pll0jzzTyKi_IVUzhCM?usp=sharing)
 
-- 🔭Projeto 5 - Utilizando Telegram e AWS: [Pipeline de dados Telegram]([https://colab.research.google.com/drive/10WwP5XCRQnAM9Pll0jzzTyKi_IVUzhCM?usp=sharing](https://colab.research.google.com/drive/1rfa3mltFachGGX2C4dtmkbQHsqHqCAx0?usp=sharing))
+- 🔭Projeto 5 - Utilizando Telegram e AWS: [Pipeline de dados Telegram](https://colab.research.google.com/drive/1rfa3mltFachGGX2C4dtmkbQHsqHqCAx0?usp=sharing)
 
 _________________________________________________________________________________________________________________________
 
