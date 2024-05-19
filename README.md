@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 - 📫 Fale comigo **gustavo.sousantos@gmail.com**
 
-- 📄 Saiba um pouco mais sobre minhas experiências [https://www.linkedin.com/in/gustavo1994-/](https://www.linkedin.com/in/gustavo1994-/)
+- 📄 Saiba um pouco mais sobre minhas experiências [https://www.linkedin.com/in/gustavo1994-/](gustavo1994-/)
 
 
 
