@@ -27,6 +27,8 @@ ________________________________________________________________________________
 
 - 📄 Saiba um pouco mais sobre minhas experiências [Linkedin](https://www.linkedin.com/in/gustavo1994-/)
 
+-  📄 Saiba um pouco mais sobre minhas experiências [Premiações](https://docs.google.com/document/d/1HmsjW1DSOdnwDmBsHeFlFKAxQ3hNMF48/edit?usp=sharing&ouid=113771311853572750492&rtpof=true&sd=true)
+
 
 
 
